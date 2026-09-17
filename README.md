@@ -5,7 +5,7 @@ Business systems · API integrations · Applied AI
 
 I design, build, and maintain business applications—from database models and backend APIs to user interfaces and Linux deployment.
 
-My work includes custom CRMs, operational dashboards, ERP integrations, automated workflows, and production AI applications. I’ve delivered systems for clients including CIM and Paradox Group, and I’m the founder and developer of Speak To Your Database.
+My work includes custom CRMs, operational dashboards, ERP integrations, automated workflows, and production AI applications. I’ve delivered systems for clients including Contractor Independence Marketing(CIM) and Paradox Group, and I’m the founder and developer of Speak To Your Database.
 
 ## Current focus
 
